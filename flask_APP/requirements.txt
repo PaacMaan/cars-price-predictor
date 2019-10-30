@@ -9,4 +9,4 @@ Jinja2==2.10.1
 MarkupSafe==0.23
 scipy==0.18.1
 sklearn==0.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
