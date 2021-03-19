@@ -5,7 +5,7 @@ scikit_learn==0.19.1
 click==6.7
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==0.23
 scipy==0.18.1
 sklearn==0.0
